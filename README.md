@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
