@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0682-baseball-game) |
+| [1603-running-sum-of-1d-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
