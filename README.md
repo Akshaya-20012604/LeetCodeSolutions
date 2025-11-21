@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
