@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0400-nth-digit](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0400-nth-digit](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0400-nth-digit) |
 ## Sorting
 |  |
 | ------- |
