@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
