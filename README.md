@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
