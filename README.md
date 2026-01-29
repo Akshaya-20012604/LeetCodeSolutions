@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
