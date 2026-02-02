@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
