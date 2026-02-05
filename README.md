@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0400-nth-digit](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
@@ -199,4 +200,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
