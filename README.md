@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
