@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0400-nth-digit](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0050-powx-n) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
