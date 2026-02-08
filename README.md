@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
