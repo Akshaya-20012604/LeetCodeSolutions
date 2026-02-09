@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
