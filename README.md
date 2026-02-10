@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 ## Greedy
 |  |
 | ------- |
