@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
