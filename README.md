@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0400-nth-digit](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0089-gray-code) |
 ## Linked List
 |  |
 | ------- |
