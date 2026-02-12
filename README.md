@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0091-decode-ways) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
