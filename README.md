@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
