@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
