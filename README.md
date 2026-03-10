@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
