@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0682-baseball-game) |
+| [0904-fruit-into-baskets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1470-shuffle-the-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
