@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/1720-crawler-log-folder) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
