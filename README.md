@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0400-nth-digit](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0874-backspace-string-compare](https://github.com/Akshaya-20012604/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
